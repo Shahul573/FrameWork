@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-01-17T12:44:39Z" name="Default suite" finished-at="2025-01-17T12:44:39Z" duration-ms="108">
+    <groups>
+    </groups>
+    <test started-at="2025-01-17T12:44:39Z" name="Default test" finished-at="2025-01-17T12:44:39Z" duration-ms="108">
+      <class name="com.testng.Hello">
+        <test-method signature="login(java.lang.String, java.lang.String)[pri:0, instance:com.testng.Hello@1f53a5dc]" started-at="2025-01-17T12:44:39Z" name="login" data-provider="sample data" finished-at="2025-01-17T12:44:39Z" duration-ms="48" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[bala@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[bala@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="login(java.lang.String, java.lang.String)[pri:0, instance:com.testng.Hello@1f53a5dc]" started-at="2025-01-17T12:44:39Z" name="login" data-provider="sample data" finished-at="2025-01-17T12:44:39Z" duration-ms="4" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[arun@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[arun@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="login(java.lang.String, java.lang.String)[pri:0, instance:com.testng.Hello@1f53a5dc]" started-at="2025-01-17T12:44:39Z" name="login" data-provider="sample data" finished-at="2025-01-17T12:44:39Z" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[guna@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[guna@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="login(java.lang.String, java.lang.String)[pri:0, instance:com.testng.Hello@1f53a5dc]" started-at="2025-01-17T12:44:39Z" name="login" data-provider="sample data" finished-at="2025-01-17T12:44:39Z" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[crshahul11@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[shahuL@1991]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+      </class> <!-- com.testng.Hello -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
